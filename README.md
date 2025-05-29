@@ -21,7 +21,7 @@ A desktop GUI application for managing pet-related information, including health
   - TXT report generator
 
 ## 🛠 Technologies Used
-- Python 3.x
+- Python 3
 - Tkinter (GUI)
 - ZeroMQ
 - External API integration (API Ninjas)
