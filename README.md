@@ -1,4 +1,4 @@
-# Pet Manager App 🐶🐱
+# Pet Manager App 
 
 A desktop GUI application for managing pet-related information, including health, feeding, activity, and overview data. Built with Python and Tkinter, the app integrates with multiple microservices over ZeroMQ to provide dynamic data interaction and unit conversion.
 
@@ -6,7 +6,7 @@ A desktop GUI application for managing pet-related information, including health
 
 ---
 
-![App Screenshot](./petapp.jpg) <!-- Replace with actual filename -->
+![App Screenshot](./petapp.jpg) 
 
 ## 🧩 Features
 
@@ -26,11 +26,11 @@ A desktop GUI application for managing pet-related information, including health
 - ZeroMQ
 - External API integration (API Ninjas)
 - JSON data storage
-- PIL & Pmw (for GUI enhancement)
+- PIL & Pmw 
 
 ## 📫 Notes
 Code is private to protect API keys and local data logic.  
-Contact me to request a demo or discuss this project in more detail!
+Contact me for more information
 
 ---
 
